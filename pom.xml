@@ -49,7 +49,7 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
-<!--修改了 -->
+
   <build>
     <finalName>eureka-server</finalName>
   </build>
